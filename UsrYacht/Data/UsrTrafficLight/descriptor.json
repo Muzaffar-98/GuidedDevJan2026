@@ -1,0 +1,63 @@
+﻿{
+  "Descriptor": {
+    "UId": "086aff36-7ec7-577c-d4c4-159845723cb2",
+    "Name": "UsrTrafficLight",
+    "ModifiedOnUtc": "\/Date(1769377163000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "66b4e089-c452-4106-8f48-f9e4017d2ef0",
+      "Name": "UsrTrafficLight"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "90ae6f42-c1b8-8d36-3870-c57709a42745",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCurrency02",
+        "DataTypeValueUId": "969093e2-2b4e-463b-883a-3d3b8c61f0cd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "acec9d8a-ba33-c7a2-0c38-1d0468de8e9e",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrNewCurrency",
+        "DataTypeValueUId": "6cc9cbe3-a486-4ed3-bea6-5c96f36d77ff"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "e83a987d-eeb0-4be9-a28d-1bc0680e35cd",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrNewDecimal",
+        "DataTypeValueUId": "60532cfd-8645-4a54-be81-bef507aa2339"
+      }
+    ]
+  }
+}
